@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RacketController.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BallContoller.js">
     <Files>
-      <File FileName="Assets\BallContoller.js" Line="3" Column="18" />
-      <File FileName="Assets\RacketController.js" Line="9" Column="2" />
+      <File FileName="Assets\BlockManager.cs" Line="11" Column="69" />
+      <File FileName="Assets\BlockContoller.js" Line="11" Column="50" />
+      <File FileName="Assets\BallContoller.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

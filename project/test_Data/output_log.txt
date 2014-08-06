@@ -11,47 +11,7 @@ Platform assembly: C:\Users\student\Desktop\inano\unity_test_001\project\test_Da
 Loading C:\Users\student\Desktop\inano\unity_test_001\project\test_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\student\Desktop\inano\unity_test_001\project\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\student\Desktop\inano\unity_test_001\project\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.961 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Skipped rendering frame because GfxDevice is in invalid state (device lost)
- 
-(Filename:  Line: 1494)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: still lost
-Skipped rendering frame because GfxDevice is in invalid state (device lost)
- 
-(Filename:  Line: 1494)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: still lost
-Skipped rendering frame because GfxDevice is in invalid state (device lost)
- 
-(Filename:  Line: 1494)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
-Skipped rendering frame because GfxDevice is in invalid state (device lost)
- 
-(Filename:  Line: 1494)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: still lost
-Skipped rendering frame because GfxDevice is in invalid state (device lost)
- 
-(Filename:  Line: 1494)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: still lost
-Skipped rendering frame because GfxDevice is in invalid state (device lost)
- 
-(Filename:  Line: 1494)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: still lost
